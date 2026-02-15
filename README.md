@@ -3,4 +3,4 @@ Model to expirement with classifying iris flowers into setosa, versicolor, virgi
 
 ## View it in one click
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://city-of-memphis-employee-salaries.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://iris-ml-demo.streamlit.app/)
