@@ -22,7 +22,7 @@ y = iris_df['Species']
 # Split data into train and test sets
 # 70% training and 30% test
 # Stratify ensures the resulting training and testing sets
-# maintain the same proportion of classes as the original datset
+# maintain the same proportion of classes as the original dataset
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.3, random_state=42, stratify=y
 )
