@@ -3,9 +3,9 @@ import pandas as pd
 from prediction import predict
 
 
-st.title('Classifying Iris Flowers')
+st.title(':cherry_blossom: Iris Flower Classification Demo')
 st.markdown('Model to expirement with classifying iris flowers into \
-            setosa, versicolor, virginica')
+            setosa, versicolor, virginica.')
 
 st.header('Plant Features')
 col1, col2 = st.columns(2)
