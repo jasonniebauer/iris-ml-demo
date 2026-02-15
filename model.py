@@ -34,7 +34,7 @@ model_classifier = RandomForestClassifier(n_estimators=100)
 # Train the classifier on the training data
 model_classifier.fit(X_train, y_train)
 
-# Predit on the test set
+# Predict on the test set
 y_pred = model_classifier.predict(X_test)
 
 # Calculate accuracy of predictions
