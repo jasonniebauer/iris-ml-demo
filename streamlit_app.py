@@ -3,6 +3,11 @@ import pandas as pd
 from prediction import predict
 
 
+st.set_page_config(
+    page_title="Iris Flower Classification Demo",
+    page_icon=":cherry_blossom:",
+)
+
 st.title(':cherry_blossom: Iris Flower Classification Demo')
 st.markdown('Model to expirement with classifying iris flowers into \
             setosa, versicolor, virginica.')
