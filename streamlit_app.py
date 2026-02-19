@@ -1,5 +1,10 @@
+# User Interface
 import streamlit as st
+
+# Data Handling
 import pandas as pd
+
+# Machine Learning
 from prediction import predict
 
 
